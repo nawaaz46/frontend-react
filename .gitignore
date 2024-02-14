@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+/dist
+
+# environment files
+.env
+
+# IDE files
+.idea
+*.iml
+
+# system files
+.DS_Store
+
+# Log files
+npm-debug.log*
